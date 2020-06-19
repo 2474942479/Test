@@ -1,4 +1,11 @@
-＃selenium + python今日头条街拍美图
+# selenium + python今日头条街拍美图
+# 作者张淞淇
+
+
+
+
+
+
 import json
 import re
 from hashlib import md5
